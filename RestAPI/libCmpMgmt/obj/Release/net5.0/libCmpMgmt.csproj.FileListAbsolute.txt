@@ -1,0 +1,15 @@
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\libCmpMgmt\bin\Release\net5.0\libCmpMgmt.deps.json
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\libCmpMgmt\bin\Release\net5.0\libCmpMgmt.runtimeconfig.json
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\libCmpMgmt\bin\Release\net5.0\libCmpMgmt.runtimeconfig.dev.json
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\libCmpMgmt\bin\Release\net5.0\libCmpMgmt.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\libCmpMgmt\bin\Release\net5.0\libCmpMgmt.pdb
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\libCmpMgmt\obj\Release\net5.0\libCmpMgmt.csproj.AssemblyReference.cache
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\libCmpMgmt\obj\Release\net5.0\libCmpMgmt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\libCmpMgmt\obj\Release\net5.0\libCmpMgmt.AssemblyInfoInputs.cache
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\libCmpMgmt\obj\Release\net5.0\libCmpMgmt.AssemblyInfo.cs
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\libCmpMgmt\obj\Release\net5.0\libCmpMgmt.csproj.CoreCompileInputs.cache
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\libCmpMgmt\obj\Release\net5.0\libCmpMgmt.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\libCmpMgmt\obj\Release\net5.0\refint\libCmpMgmt.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\libCmpMgmt\obj\Release\net5.0\libCmpMgmt.pdb
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\libCmpMgmt\obj\Release\net5.0\libCmpMgmt.genruntimeconfig.cache
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\libCmpMgmt\obj\Release\net5.0\ref\libCmpMgmt.dll

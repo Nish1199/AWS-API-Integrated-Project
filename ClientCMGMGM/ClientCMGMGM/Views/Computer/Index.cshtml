@@ -1,0 +1,81 @@
+﻿@model IEnumerable<ClientCMGMGM.Models.Computer>
+
+@{
+    ViewData["Title"] = "All Computers";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Sn)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Make)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Model)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ram)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Hdd)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Formfactor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Size)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserId)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Sn)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Make)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Model)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ram)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Hdd)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Formfactor)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Size)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserId)
+            </td>
+            <td>
+                <a href="/Computer/Edit/@item.Sn">Edit</a>
+                 |
+                <a href="/Computer/Details/@item.Sn">Details</a>
+                |
+                 <a href="/Computer/Delete/@item.Sn">Delete</a>
+               
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,45 @@
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\libCmpMgmt\bin\Debug\net5.0\libCmpMgmt.deps.json
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\libCmpMgmt\bin\Debug\net5.0\libCmpMgmt.runtimeconfig.json
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\libCmpMgmt\bin\Debug\net5.0\libCmpMgmt.runtimeconfig.dev.json
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\libCmpMgmt\bin\Debug\net5.0\libCmpMgmt.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\libCmpMgmt\bin\Debug\net5.0\ref\libCmpMgmt.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\libCmpMgmt\bin\Debug\net5.0\libCmpMgmt.pdb
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\libCmpMgmt\obj\Debug\net5.0\libCmpMgmt.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\libCmpMgmt\obj\Debug\net5.0\libCmpMgmt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\libCmpMgmt\obj\Debug\net5.0\libCmpMgmt.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\libCmpMgmt\obj\Debug\net5.0\libCmpMgmt.AssemblyInfo.cs
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\libCmpMgmt\obj\Debug\net5.0\libCmpMgmt.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\libCmpMgmt\obj\Debug\net5.0\libCmpMgmt.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\libCmpMgmt\obj\Debug\net5.0\ref\libCmpMgmt.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\libCmpMgmt\obj\Debug\net5.0\libCmpMgmt.pdb
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\libCmpMgmt\obj\Debug\net5.0\libCmpMgmt.genruntimeconfig.cache
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\libCmpMgmt\bin\Debug\net5.0\libCmpMgmt.deps.json
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\libCmpMgmt\bin\Debug\net5.0\libCmpMgmt.runtimeconfig.json
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\libCmpMgmt\bin\Debug\net5.0\libCmpMgmt.runtimeconfig.dev.json
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\libCmpMgmt\bin\Debug\net5.0\libCmpMgmt.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\libCmpMgmt\bin\Debug\net5.0\libCmpMgmt.pdb
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\libCmpMgmt\obj\Debug\net5.0\libCmpMgmt.csproj.AssemblyReference.cache
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\libCmpMgmt\obj\Debug\net5.0\libCmpMgmt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\libCmpMgmt\obj\Debug\net5.0\libCmpMgmt.AssemblyInfoInputs.cache
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\libCmpMgmt\obj\Debug\net5.0\libCmpMgmt.AssemblyInfo.cs
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\libCmpMgmt\obj\Debug\net5.0\libCmpMgmt.csproj.CoreCompileInputs.cache
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\libCmpMgmt\obj\Debug\net5.0\libCmpMgmt.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\libCmpMgmt\obj\Debug\net5.0\refint\libCmpMgmt.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\libCmpMgmt\obj\Debug\net5.0\libCmpMgmt.pdb
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\libCmpMgmt\obj\Debug\net5.0\libCmpMgmt.genruntimeconfig.cache
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\libCmpMgmt\obj\Debug\net5.0\ref\libCmpMgmt.dll
+E:\College\API Final Project\RestAPI\libCmpMgmt\bin\Debug\net5.0\libCmpMgmt.deps.json
+E:\College\API Final Project\RestAPI\libCmpMgmt\bin\Debug\net5.0\libCmpMgmt.runtimeconfig.json
+E:\College\API Final Project\RestAPI\libCmpMgmt\bin\Debug\net5.0\libCmpMgmt.runtimeconfig.dev.json
+E:\College\API Final Project\RestAPI\libCmpMgmt\bin\Debug\net5.0\libCmpMgmt.dll
+E:\College\API Final Project\RestAPI\libCmpMgmt\bin\Debug\net5.0\ref\libCmpMgmt.dll
+E:\College\API Final Project\RestAPI\libCmpMgmt\bin\Debug\net5.0\libCmpMgmt.pdb
+E:\College\API Final Project\RestAPI\libCmpMgmt\obj\Debug\net5.0\libCmpMgmt.csproj.AssemblyReference.cache
+E:\College\API Final Project\RestAPI\libCmpMgmt\obj\Debug\net5.0\libCmpMgmt.GeneratedMSBuildEditorConfig.editorconfig
+E:\College\API Final Project\RestAPI\libCmpMgmt\obj\Debug\net5.0\libCmpMgmt.AssemblyInfoInputs.cache
+E:\College\API Final Project\RestAPI\libCmpMgmt\obj\Debug\net5.0\libCmpMgmt.AssemblyInfo.cs
+E:\College\API Final Project\RestAPI\libCmpMgmt\obj\Debug\net5.0\libCmpMgmt.csproj.CoreCompileInputs.cache
+E:\College\API Final Project\RestAPI\libCmpMgmt\obj\Debug\net5.0\libCmpMgmt.dll
+E:\College\API Final Project\RestAPI\libCmpMgmt\obj\Debug\net5.0\ref\libCmpMgmt.dll
+E:\College\API Final Project\RestAPI\libCmpMgmt\obj\Debug\net5.0\libCmpMgmt.pdb
+E:\College\API Final Project\RestAPI\libCmpMgmt\obj\Debug\net5.0\libCmpMgmt.genruntimeconfig.cache

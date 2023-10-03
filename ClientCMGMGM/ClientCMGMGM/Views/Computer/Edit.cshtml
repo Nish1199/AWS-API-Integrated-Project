@@ -1,0 +1,69 @@
+﻿@model ClientCMGMGM.Models.Computer
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<h1>Edit</h1>
+
+<h4>Computer</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Sn" class="control-label"></label>
+                <input asp-for="Sn" class="form-control"/>
+                <span asp-validation-for="Sn" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Make" class="control-label"></label>
+                <input asp-for="Make" class="form-control" />
+                <span asp-validation-for="Make" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Model" class="control-label"></label>
+                <input asp-for="Model" class="form-control" />
+                <span asp-validation-for="Model" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Ram" class="control-label"></label>
+                <input asp-for="Ram" class="form-control" />
+                <span asp-validation-for="Ram" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Hdd" class="control-label"></label>
+                <input asp-for="Hdd" class="form-control" />
+                <span asp-validation-for="Hdd" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Formfactor" class="control-label"></label>
+                <input asp-for="Formfactor" class="form-control" />
+                <span asp-validation-for="Formfactor" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Size" class="control-label"></label>
+                <input asp-for="Size" class="form-control" />
+                <span asp-validation-for="Size" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UserId" class="control-label"></label>
+                <input asp-for="UserId" class="form-control" />
+                <span asp-validation-for="UserId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

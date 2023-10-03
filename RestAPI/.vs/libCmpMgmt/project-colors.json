@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "89a4dc90-b963-4b38-bf1b-bdd81c1e24ca": {
+      "ProjectGuid": "89a4dc90-b963-4b38-bf1b-bdd81c1e24ca",
+      "DisplayName": "RestCmpMgmt",
+      "ColorIndex": 0
+    },
+    "4279b5e1-714b-4d5b-a6ee-e09c91ee2957": {
+      "ProjectGuid": "4279b5e1-714b-4d5b-a6ee-e09c91ee2957",
+      "DisplayName": "libCmpMgmt",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

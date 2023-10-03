@@ -1,0 +1,68 @@
+﻿@model IEnumerable<ClientCMGMGM.Models.User>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.UserId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Lname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Dept)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Office)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Position)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Lname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Dept)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Office)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Position)
+            </td>
+            <td>
+                 <a href="/User/Edit/@item.UserId">Edit</a>
+                 |
+                <a href="/User/Details/@item.UserId">Details</a>
+                |
+                 <a href="/User/Delete/@item.UserId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,418 @@
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\appsettings.json
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\RestCmpMgmt.exe
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\RestCmpMgmt.deps.json
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\RestCmpMgmt.runtimeconfig.json
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\RestCmpMgmt.runtimeconfig.dev.json
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\RestCmpMgmt.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\ref\RestCmpMgmt.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\RestCmpMgmt.pdb
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\libCmpMgmt.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\bin\Debug\net5.0\libCmpMgmt.pdb
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\obj\Debug\net5.0\RestCmpMgmt.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\obj\Debug\net5.0\RestCmpMgmt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\obj\Debug\net5.0\RestCmpMgmt.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\obj\Debug\net5.0\RestCmpMgmt.AssemblyInfo.cs
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\obj\Debug\net5.0\RestCmpMgmt.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\obj\Debug\net5.0\RestCmpMgmt.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\obj\Debug\net5.0\RestCmpMgmt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\obj\Debug\net5.0\staticwebassets\RestCmpMgmt.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\obj\Debug\net5.0\staticwebassets\RestCmpMgmt.StaticWebAssets.xml
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\obj\Debug\net5.0\scopedcss\bundle\RestCmpMgmt.styles.css
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\obj\Debug\net5.0\RestCmpMgmt.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\obj\Debug\net5.0\RestCmpMgmt.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\obj\Debug\net5.0\ref\RestCmpMgmt.dll
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\obj\Debug\net5.0\RestCmpMgmt.pdb
+C:\Users\Admin\Documents\School\Cloud\libCmpMgmt\RestCmpMgmt\obj\Debug\net5.0\RestCmpMgmt.genruntimeconfig.cache
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\appsettings.json
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\RestCmpMgmt.StaticWebAssets.xml
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\RestCmpMgmt.exe
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\RestCmpMgmt.deps.json
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\RestCmpMgmt.runtimeconfig.json
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\RestCmpMgmt.runtimeconfig.dev.json
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\RestCmpMgmt.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\RestCmpMgmt.pdb
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Humanizer.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\libCmpMgmt.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\libCmpMgmt.pdb
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\obj\Debug\net5.0\RestCmpMgmt.csproj.AssemblyReference.cache
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\obj\Debug\net5.0\RestCmpMgmt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\obj\Debug\net5.0\RestCmpMgmt.AssemblyInfoInputs.cache
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\obj\Debug\net5.0\RestCmpMgmt.AssemblyInfo.cs
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\obj\Debug\net5.0\RestCmpMgmt.csproj.CoreCompileInputs.cache
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\obj\Debug\net5.0\RestCmpMgmt.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\obj\Debug\net5.0\RestCmpMgmt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\obj\Debug\net5.0\scopedcss\bundle\RestCmpMgmt.styles.css
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\obj\Debug\net5.0\staticwebassets\RestCmpMgmt.StaticWebAssets.Manifest.cache
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\obj\Debug\net5.0\RestCmpMgmt.RazorTargetAssemblyInfo.cache
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\obj\Debug\net5.0\RestCmpMgmt.csproj.CopyComplete
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\obj\Debug\net5.0\RestCmpMgmt.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\obj\Debug\net5.0\refint\RestCmpMgmt.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\obj\Debug\net5.0\RestCmpMgmt.pdb
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\obj\Debug\net5.0\RestCmpMgmt.genruntimeconfig.cache
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\obj\Debug\net5.0\ref\RestCmpMgmt.dll
+C:\Users\KALEEM\Downloads\OneDrive_1_7-14-2022\GroupProject\GroupProject\RestAPI\RestCmpMgmt\bin\Debug\net5.0\aws-beanstalk-tools-defaults.json
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\appsettings.Development.json
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\appsettings.json
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\aws-beanstalk-tools-defaults.json
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\RestCmpMgmt.StaticWebAssets.xml
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\RestCmpMgmt.exe
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\RestCmpMgmt.deps.json
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\RestCmpMgmt.runtimeconfig.json
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\RestCmpMgmt.runtimeconfig.dev.json
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\RestCmpMgmt.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\ref\RestCmpMgmt.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\RestCmpMgmt.pdb
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\AutoMapper.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Humanizer.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\libCmpMgmt.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\bin\Debug\net5.0\libCmpMgmt.pdb
+E:\College\API Final Project\RestAPI\RestCmpMgmt\obj\Debug\net5.0\RestCmpMgmt.csproj.AssemblyReference.cache
+E:\College\API Final Project\RestAPI\RestCmpMgmt\obj\Debug\net5.0\RestCmpMgmt.GeneratedMSBuildEditorConfig.editorconfig
+E:\College\API Final Project\RestAPI\RestCmpMgmt\obj\Debug\net5.0\RestCmpMgmt.AssemblyInfoInputs.cache
+E:\College\API Final Project\RestAPI\RestCmpMgmt\obj\Debug\net5.0\RestCmpMgmt.AssemblyInfo.cs
+E:\College\API Final Project\RestAPI\RestCmpMgmt\obj\Debug\net5.0\RestCmpMgmt.csproj.CoreCompileInputs.cache
+E:\College\API Final Project\RestAPI\RestCmpMgmt\obj\Debug\net5.0\RestCmpMgmt.MvcApplicationPartsAssemblyInfo.cs
+E:\College\API Final Project\RestAPI\RestCmpMgmt\obj\Debug\net5.0\RestCmpMgmt.MvcApplicationPartsAssemblyInfo.cache
+E:\College\API Final Project\RestAPI\RestCmpMgmt\obj\Debug\net5.0\scopedcss\bundle\RestCmpMgmt.styles.css
+E:\College\API Final Project\RestAPI\RestCmpMgmt\obj\Debug\net5.0\staticwebassets\RestCmpMgmt.StaticWebAssets.Manifest.cache
+E:\College\API Final Project\RestAPI\RestCmpMgmt\obj\Debug\net5.0\RestCmpMgmt.RazorTargetAssemblyInfo.cache
+E:\College\API Final Project\RestAPI\RestCmpMgmt\obj\Debug\net5.0\RestCmpMgmt.csproj.CopyComplete
+E:\College\API Final Project\RestAPI\RestCmpMgmt\obj\Debug\net5.0\RestCmpMgmt.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\obj\Debug\net5.0\ref\RestCmpMgmt.dll
+E:\College\API Final Project\RestAPI\RestCmpMgmt\obj\Debug\net5.0\RestCmpMgmt.pdb
+E:\College\API Final Project\RestAPI\RestCmpMgmt\obj\Debug\net5.0\RestCmpMgmt.genruntimeconfig.cache
